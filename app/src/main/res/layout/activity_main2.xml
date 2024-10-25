@@ -52,6 +52,8 @@
             android:id="@+id/radioButton1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:checked="true"
+
             android:text="無糖" />
 
         <RadioButton
@@ -70,7 +72,6 @@
             android:id="@+id/radioButton4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:checked="true"
             android:text="全糖" />
     </RadioGroup>
 
@@ -96,6 +97,7 @@
             android:id="@+id/radioButton5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:checked="true"
             android:text="去冰" />
 
         <RadioButton
@@ -114,7 +116,6 @@
             android:id="@+id/radioButton8"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:checked="true"
             android:text="正常冰" />
     </RadioGroup>
 
